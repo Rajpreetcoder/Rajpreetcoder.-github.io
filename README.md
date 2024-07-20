@@ -4,6 +4,10 @@
 
 **For different shapes types we have to use different symbols**
 
-###### For having circle shapes
-_we have to use circle brackets_
-**For eg** [(A--->B)](www.mermaid.in) 
+###### For  creating circle shapes
+_we have to use circlcle brackets_
+
+##### For creating rhombus shape
+_we use {} brackets_
+
+
