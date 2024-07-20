@@ -6,4 +6,4 @@
 
 ###### For having circle shapes
 _we have to use circle brackets_
-**For eg** [A--->B](www.mermaid.com) 
+**For eg** [(A--->B)](www.mermaid.in) 
