@@ -1,5 +1,3 @@
-# Rajpreetcoder.-github.io
-
 ### How to create different shapes in Mermaid 
 
 **For different shapes types we have to use different bracelets**
